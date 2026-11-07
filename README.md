@@ -1,4 +1,4 @@
-# QR Code Component using CSS Flexbox
+# QR Code Card Component using CSS Flexbox
 
 ## Code Approach
 
